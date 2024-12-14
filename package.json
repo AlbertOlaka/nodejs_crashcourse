@@ -1,0 +1,26 @@
+{
+  "name": "nodejs_crashcourse",
+  "version": "1.0.0",
+  "description": "Node crash course",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "dev": "nodemon index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlbertOlaka/nodejs_crashcourse.git"
+  },
+  "author": "Albert Joseph",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlbertOlaka/nodejs_crashcourse/issues"
+  },
+  "homepage": "https://github.com/AlbertOlaka/nodejs_crashcourse#readme",
+  "dependencies": {
+    "uuid": "^11.0.3"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  }
+}
